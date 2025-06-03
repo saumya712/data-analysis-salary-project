@@ -1,0 +1,6 @@
+id,name,age,occupation,salary,city,bonus,total sal,age_group,profile
+1,Saumya,25.0,Doctor,70000.0,Delhi,7000.0,77000.0,mid,Saumya - Doctor
+2,Sarika,30.0,Engineer,80000.0,Mumbai,8000.0,88000.0,senior,Sarika - Engineer
+3,Disha,28.0,Teacher,50000.0,Delhi,5000.0,55000.0,mid,Disha - Teacher
+4,Ravi,22.0,Doctor,72000.0,Chennai,7200.0,79200.0,young,Ravi - Doctor
+5,Neha,32.0,Engineer,60000.0,Mumbai,6000.0,66000.0,senior,Neha - Engineer
